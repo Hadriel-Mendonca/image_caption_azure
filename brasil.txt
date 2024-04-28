@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "f64f6324-792c-43be-b56f-cbce5e1acd24",
+  "content-length": "179",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a flag with a blue circle and white stars in the center",
+    "confidence": 0.7156942486763
+  },
+  "metadata": {
+    "width": 275,
+    "height": 183
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "088ffe9d-a827-4c7e-936c-556da69595e3",
+  "content-length": "147",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a dog lying in grass",
+    "confidence": 0.8000285029411316
+  },
+  "metadata": {
+    "width": 275,
+    "height": 183
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "edec6a85-dcb1-46d2-a74f-a929310b7db0",
+  "content-length": "149",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a woman holding a baby",
+    "confidence": 0.8101294040679932
+  },
+  "metadata": {
+    "width": 300,
+    "height": 168
+  }
+}
